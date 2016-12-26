@@ -1,0 +1,8 @@
+nbproject
+.DS_Store
+vendor
+composer.lock
+public/bower_components
+public/upload/*
+app/Config/config.php
+app/Config/databases.json

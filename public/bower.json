@@ -1,0 +1,15 @@
+{
+  "name": "Bower components",
+  "authors": [
+    "Andrés Duarte M. <andres.duarte.marquez@gmail.com>"
+  ],
+  "description": "Bower components for the project",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "highcharts": "^5.0.6"
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "aduartem/mvcframework",
+    "description": "PHP MVC Framework is a lightweight, fast and extensible designed for web developers.",
+    "keywords": ["Framework", "PHP Framework", "MVC"],
+    "license": "MIT",
+    "type": "project",
+    "homepage": "http://andresduartem.cl",
+    "support": {
+        "issues": "https://github.com/aduartem/mvc-framework/issues",
+        "source": "https://github.com/aduartem/mvc-framework"
+    },
+    "authors": [
+        {
+            "name": "Andrés Duarte",
+            "email": "andres.duarte.marquez@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "phpoffice/phpexcel": "^1.8"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.6",
+        "phpunit/phpunit": "~4.5"
+    },
+    "autoload": {
+
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/" 
+        }
+    }
+}

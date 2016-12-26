@@ -1,0 +1,8 @@
+{
+	"default" : {
+		"host" 		: "localhost",
+		"database" 	: "db",
+		"user" 		: "userdb",
+		"password" 	: "passdb"
+	}
+}
